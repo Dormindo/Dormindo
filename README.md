@@ -4,13 +4,13 @@
 
 <!-- ═══════════════════ TYPING ANIMADO ═══════════════════ -->
 <a href="https://github.com/acordadinho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!+%F0%9F%91%8B;C%2B%2B+%7C+C%23+%7C+Python+%7C+JavaScript;Full+Stack+Developer+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+pzw!+%F0%9F%91%8B;C%2B%2B+%7C+C%23+%7C+Python+%7C+JavaScript;Full+Stack+Developer+%F0%9F%9A%80;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=acordadinho&style=for-the-badge&color=00C6FF&label=VISITAS)
-![Followers](https://img.shields.io/github/followers/acordadinho?style=for-the-badge&logo=github&color=0072FF&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Dormindo&style=for-the-badge&color=00C6FF&label=VISITAS)
+![Followers](https://img.shields.io/github/followers/Dormindo?style=for-the-badge&logo=github&color=0072FF&labelColor=0d1117)
 ![Focus](https://img.shields.io/badge/FOCUS-CODING-00C6FF?style=for-the-badge&labelColor=0d1117)
 
 </div>
