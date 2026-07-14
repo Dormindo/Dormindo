@@ -1,7 +1,6 @@
 <!-- ═══════════════════ BANNER ANIMADO ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:0037AF&height=220&section=header&text=Lucas%20%7C%20Acordadinho&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3C%2F%3E%20Code%20is%20art%20that%20works%20%3C%2F%3E&descAlignY=55&descSize=18&stroke=001a4d&strokeWidth=1" width="100%"/>
 
 <!-- ═══════════════════ TYPING ANIMADO ═══════════════════ -->
 <a href="https://github.com/acordadinho">
