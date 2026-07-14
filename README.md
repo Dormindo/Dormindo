@@ -28,10 +28,10 @@
 ```cpp
 class Lucas : public Developer {
 public:
-    string username = "acordadinho";
+    string username = "Dormindo";
     string from     = "Brasil 🇧🇷";
     string focus    = "Full Stack + Systems";
-    string fuel     = "café ☕ (nível: crítico)";
+    string fuel     = "(nível: crítico)";
 
     void dailyRoutine() {
         while (alive) {
@@ -94,8 +94,8 @@ public:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=acordadinho&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=0072FF&text_color=c9d1d9&ring_color=00C6FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acordadinho&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&langs_count=8&card_width=320" alt="Top Langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dormindo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=0072FF&text_color=c9d1d9&ring_color=00C6FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dormindo&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&langs_count=8&card_width=320" alt="Top Langs"/>
 
 <br/><br/>
 
@@ -141,11 +141,11 @@ public:
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <div align="center">
 
-**💬 Aberto a novas ideias, colaborações e projetos desafiadores!**
+**💬 Aberto a novas ideias, colaborações e projetos**
 
 *Let's build something that matters* 🚀
 
-<sub>Made with ❤️ + ☕ by Lucas | acordadinho</sub>
+<sub>Made by pzw | Dormindo</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:0037AF&height=120&section=footer" width="100%"/>
 
