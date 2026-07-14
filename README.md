@@ -25,7 +25,7 @@
 <td width="58%" valign="top">
 
 ```cpp
-class Lucas : public Developer {
+class Dormindo : public Developer {
 public:
     string username = "Dormindo";
     string from     = "Brasil 🇧🇷";
